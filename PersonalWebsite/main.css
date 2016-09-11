@@ -1,0 +1,29 @@
+body {
+  font
+  -family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 780;
+  margin: 0;
+}
+
+header nav {
+  display: inline-flex;
+  justify-content: center;
+}
+
+header p {
+  padding: 0 30px;
+  margin: 0;
+}

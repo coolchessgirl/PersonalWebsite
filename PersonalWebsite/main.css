@@ -27,3 +27,35 @@ header p {
   padding: 0 30px;
   margin: 0;
 }
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://www.digitalrevolutions.biz/wp-content/uploads/2009/07/red_line_background.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 300px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+section .row img {
+  margin: 0 0 60px;
+  width: 100%;
+}
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: white;
+  text-shadow: none;
+  background-color: red;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+

@@ -44,7 +44,7 @@ header p {
 }
 section .row img {
   margin: 0 0 60px;
-  width: 90%;
+  width: 100%;
 }
 .btn.btn-primary {
   border-radius: 2px;
@@ -56,6 +56,10 @@ section .row img {
 
 .btn.btn-primary:hover {
   color: #ffffff;
-  background-color: #fbd1d5;
+  background-color: #ff6666;
+}
+section .row img {
+  margin: 0 0 30px;
+  width: 100%;
 }
 

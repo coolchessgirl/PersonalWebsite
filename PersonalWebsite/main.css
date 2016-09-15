@@ -58,8 +58,8 @@ section .row img {
   color: #ffffff;
   background-color: #ff6666;
 }
-section .row img {
-  margin: 0 0 30px;
-  width: 100%;
+.row1{
+	background-color: #5E14BC;
 }
+
 

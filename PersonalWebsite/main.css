@@ -58,5 +58,30 @@ section .row img {
   color: #ffffff;
   background-color: #ff6666;
 }
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+  align-content: center;
+}
 
 

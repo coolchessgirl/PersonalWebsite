@@ -14,19 +14,18 @@ footer .row {
 }
 
 header h1 {
-  font-weight: 780;
+  font-weight: 600;
   margin: 0;
 }
 
-header nav {
-  display: inline-flex;
-  justify-content: center;
+navbar-header{
+	position: fixed;
 }
-
 header p {
   padding: 0 30px;
   margin: 0;
 }
+
 .jumbotron {
   display: flex;
   align-items: center;
@@ -35,6 +34,7 @@ header p {
   color: #ffffff;
   height: 300px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+
 }
 .jumbotron h2 {
   font-size: 60px;

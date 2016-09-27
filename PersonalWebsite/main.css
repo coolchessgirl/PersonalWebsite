@@ -38,6 +38,8 @@ header p {
   color: #ffffff;
   height: 300px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  margin-top:50px;
+  border:none;
 
 }
 .jumbotron h2 {
@@ -89,6 +91,20 @@ footer li img {
 }
 #about-me{
 	font-size: 20px;
+}
+.navbar-custom {
+    padding: 25px 0;
+    -webkit-transition: padding .3s;
+    -moz-transition: padding .3s;
+    transition: padding .3s;
+    background-color: lightgrey;
+    border: none;
+}
+.navbar-brand{
+	padding-left: 30px;
+}
+.navbar-right{
+	padding-right: 30px;
 }
 
 

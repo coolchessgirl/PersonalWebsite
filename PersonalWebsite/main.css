@@ -89,8 +89,8 @@ footer li img {
   height: 32px;
   align-content: center;
 }
-#about-me{
-	font-size: 20px;
+.about-me{
+	font-size: 25px;
 }
 .navbar-custom {
     padding: 25px 0;

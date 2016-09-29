@@ -19,7 +19,7 @@ header h1 {
   color: black;
 }
 header a{
-	color: black;
+	color: white;
 }
 
 navbar-header{
@@ -33,7 +33,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://www.digitalrevolutions.biz/wp-content/uploads/2009/07/red_line_background.jpg');
+  background-color: #39B1C6;
   background-size: cover;
   color: #ffffff;
   height: 300px;
@@ -97,7 +97,7 @@ footer li img {
     -webkit-transition: padding .3s;
     -moz-transition: padding .3s;
     transition: padding .3s;
-    background-color: lightgrey;
+    background-color: #CCCCCC;
     border: none;
 }
 .navbar-brand{
